@@ -14,6 +14,10 @@ End-to-end data warehouse project featuring star schema design, dimensional mode
 Transforms the [UCI Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) into a structured data warehouse. 
 Covers the full pipeline from raw CSV ingestion to a star schema.
 
+**Start Schema**
+
+<img width="949" height="684" alt="Bildschirmfoto 2026-05-21 um 14 58 07" src="https://github.com/user-attachments/assets/a47e38bf-93ed-4859-8346-8350fdade130" />
+
 ## Install
  
 **1. Clone the repo**
